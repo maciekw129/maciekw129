@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello and welcome to my Github profile! 👋
+
+## About me
+I'm 22 years old intern Frontend developer from Poland. 
+
 
 <!--
 **maciekw129/maciekw129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
