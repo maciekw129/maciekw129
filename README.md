@@ -1,6 +1,6 @@
-### Hello and welcome to my Github profile! 👋
+## Hello and welcome to my Github profile! 👋
 
-## About me
+### About me
 I'm 22 years old intern Frontend developer from Poland. 
 
 
