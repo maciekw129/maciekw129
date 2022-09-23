@@ -1,5 +1,10 @@
 ## Hello and welcome to my Github profile! 👋
-I'm 22 years old intern Frontend developer from Poland. Here you can find some projects that I made througt my learning path.
+
+I'm 23 years old intern Frontend developer from Poland. I started coding out of interest during COVID-19 pademia. Not long after that, 
+I realized that this is what I want to do professionally.<br/><br/>
+I have already some first commercial experience in programming, as a Salesforce Developer ⚡ and now I'm looking for some more opportunities! 🔭
+
+Here you can find some of the projects I have created 😄
 
 
 <!--
