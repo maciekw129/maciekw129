@@ -1,6 +1,11 @@
 ## Hello and welcome to my Github profile! 👋
 
 Here you can find some of the projects I have created 😄
+
+<br/>
+<br/>
+
+![Codewars badge](https://www.codewars.com/users/maciekw129/badges/small)
 <!--
 **maciekw129/maciekw129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
