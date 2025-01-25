@@ -16,7 +16,7 @@ I love creating innovative solutions and learning new skills
 
 - **Languages**: TypeScript, C#, HTML, SCSS
 - **Frameworks**: Angular, .NET
-- **Tools**: NX, Git, Jetbrains IDE
+- **Tools**: NX, Git, JetBrains IDE
 
 ## 📚 Projects
 
