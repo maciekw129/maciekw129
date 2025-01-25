@@ -1,22 +1,31 @@
 ## Hello and welcome to my Github profile! 👋
 
-Here you can find some of the projects I have created 😄
+Welcome to my GitHub profile! I'm a passionate developer based in Warsaw, Poland.
+I love creating innovative solutions and learning new skills
 
-<br/>
-<br/>
+## 🚀 About Me
 
-![Codewars badge](https://www.codewars.com/users/maciekw129/badges/small)
-<!--
-**maciekw129/maciekw129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌍 Location: Warsaw, Poland
+- 💼 Currently working on: [sword-soldiers](https://github.com/maciekw129/sword-soldiers), [sword-soldiers-api](https://github.com/maciekw129/sword-soldiers_api)
+- 🌱 Learning: Advanced Angular, C# and ASP.NET Core
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maciej-walecki)
 
-Here are some ideas to get you started:
+![Codewars badge](https://www.codewars.com/users/maciekw129/badges/large)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Languages**: TypeScript, C#, HTML, SCSS
+- **Frameworks**: Angular, .NET
+- **Tools**: NX, Git, Jetbrains IDE
+
+## 📚 Projects
+
+Here are some of the projects I've been working on:
+
+- [sword-soldiers](https://github.com/maciekw129/sword-soldiers), [sword-soldiers_api](https://github.com/maciekw129/sword-soldiers_api): Simple hack'n'slash game.
+- [ngx-stateful-service](https://github.com/maciekw129/ngx-stateful-service): State management for Angular apps.
+- [cocktails_frontend](https://github.com/maciekw129/cocktails_frontend), [cocktails api](https://github.com/maciekw129/cocktails_api): App for managing cocktail recipes.
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+Thanks for visiting my profile! Have a great day! 😊
